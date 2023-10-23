@@ -31,3 +31,6 @@
 </div>
 
 🏆 достижения :
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=umadethis" alt=""/>  
+</div>
