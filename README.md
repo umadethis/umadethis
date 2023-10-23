@@ -21,3 +21,5 @@
 - :zany_face: факт обо мне 
 - :thinking: факт обо мне 
 - :relieved: факт обо мне
+
+### :hammer_and_wrench: языки и инструменты :
